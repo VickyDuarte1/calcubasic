@@ -1,0 +1,22 @@
+.boton-clear {
+height: 80px;
+font-size: 2em;
+font-family:'Courier New', Courier, monospace;
+display: flex;
+flex: 1;
+background-color:rgb(255, 110, 199); 
+margin-top: 8px;
+justify-content: center;
+align-items: center;
+font-weight: bold;
+color: rgb(255, 255, 255);
+border: 2px solid rgb(233, 192, 219);
+cursor: pointer;
+border-radius: 25px;
+
+}
+
+.boton-clear:hover{
+    background-color: rgb(111, 249, 141);
+    border: 2px solid rgb(38, 162, 50);
+}
